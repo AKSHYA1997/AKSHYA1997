@@ -36,6 +36,7 @@
 <a href="https://soliditylang.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" height="45" width="45"/></a>
 <a href="https://ethereum.org/en/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" height="50"/></a>
 <a href="https://www.trufflesuite.com/" target="_blank"> <img src="https://www.trufflesuite.com/img/truffle-logomark.svg" height="45"/></a>
+<a href="https://daml.com/" target="_blank"> <img src"https://docs.daml.com/_static/images/DAML_Logo_Blue.svg" height="45"/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->

@@ -3,11 +3,11 @@
 
 ## About Me
 
-- 🔛Present: I am a full stack developer based in India
+- 🔛Present: I am currently studying MBA at Frankfurt School of Finance & Management in Germany
 
-- 🔙Past: I used to be game developer
+- 🔙Past: I used to be a Full-Stack Developer specializing in Blockchain Development
 
-- 🔜Future: I am currently learning **Ethereum and Solidity**
+- 🔜Future: I am currently learning **Product Management**
 
 ## 🚀 Languages and Tools:
 
